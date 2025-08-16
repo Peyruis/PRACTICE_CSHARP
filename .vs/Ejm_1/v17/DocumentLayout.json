@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Ejm_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DEEF45-F35A-4518-8B10-F56F00FAC9D5}|Ejm_1\\Ejm_1.csproj|c:\\users\\usuario\\source\\repos\\ejm_1\\ejm_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DEEF45-F35A-4518-8B10-F56F00FAC9D5}|Ejm_1\\Ejm_1.csproj|solutionrelative:ejm_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DEEF45-F35A-4518-8B10-F56F00FAC9D5}|Ejm_1\\Ejm_1.csproj|c:\\users\\usuario\\source\\repos\\ejm_1\\ejm_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4DEEF45-F35A-4518-8B10-F56F00FAC9D5}|Ejm_1\\Ejm_1.csproj|solutionrelative:ejm_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Ejm_1\\Ejm_1\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejm_1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Ejm_1\\Ejm_1\\Form1.cs",
+              "RelativeToolTip": "Ejm_1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:44:18.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Ejm_1\\Ejm_1\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejm_1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Ejm_1\\Ejm_1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejm_1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:42:02.784Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
