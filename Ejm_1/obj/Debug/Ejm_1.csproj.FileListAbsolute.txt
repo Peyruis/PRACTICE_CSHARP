@@ -9,3 +9,4 @@ C:\Users\Usuario\source\repos\Ejm_1\Ejm_1\obj\Debug\Ejm_1.csproj.CoreCompileInpu
 C:\Users\Usuario\source\repos\Ejm_1\Ejm_1\obj\Debug\Ejm_1.exe
 C:\Users\Usuario\source\repos\Ejm_1\Ejm_1\obj\Debug\Ejm_1.pdb
 C:\Users\Usuario\source\repos\Ejm_1\Ejm_1\obj\Debug\Ejm_1.exe.config
+C:\Users\Usuario\source\repos\Ejm_1\Ejm_1\obj\Debug\Ejm_1.Form2.resources
